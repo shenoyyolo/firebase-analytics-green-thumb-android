@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "810411145285",
+    "firebase_url": "https://greenthumb-faabc.firebaseio.com",
+    "project_id": "greenthumb-faabc",
+    "storage_bucket": "greenthumb-faabc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810411145285:android:460ef458a52102b8",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.greenthumb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810411145285-v7ikck8vv1p1qv3v4r1u0ilbraabknc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChHW22StFbI_7GpLtF0fhsRYGzElyhi68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
